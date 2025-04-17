@@ -1,1 +1,2 @@
-# RTO-chemical-plant
+# Executive Summary
+In this project, I developed a real-time optimization (RTO) framework for a chemical reactor using a first-principles model to improve operational profitability. I implemented the solution in Python, integrated it with a plant simulation, and used daily market prices to optimize operations throughout the year. Results showed a 68% increase compared to the non-optimization method, and 18% increased compared to the machine learning method. 
